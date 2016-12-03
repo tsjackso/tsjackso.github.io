@@ -17,7 +17,7 @@ title: Theodore S. Jackson
 email: theodore.jackson@gmail.com
 description: This is my personal website.  I'm learning some things so maybe someday it will be great.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://theodorejackson.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: stricken  
 github_username:  tsjackso
 
