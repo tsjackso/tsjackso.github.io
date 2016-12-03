@@ -3,4 +3,4 @@ layout: post
 title: Trying this out
 ---
 
-Ohai, world!  Gday
+Ohai, world!
