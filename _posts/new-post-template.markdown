@@ -1,0 +1,6 @@
+---
+layout: post
+title: Trying this out
+---
+
+Ohai, world!
