@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Theodore S. Jackson
-email: theodore.jackson@gmail.com
-description: This is my personal website.  I'm learning some things so maybe someday it will be great.
+email: theodore.jackson AT gmail DOT com
+description: This is my personal website, made with Jekyll and GitHub pages.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://theodorejackson.net" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: stricken  
-github_username:  tsjackso
+# twitter_username: stricken  
+# github_username:  tsjackso
 
 # Build settings
 markdown: kramdown
