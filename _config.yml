@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Theodore S. Jackson
 email: theodore.jackson AT gmail DOT com
-description: This is my personal website, made with Jekyll and GitHub pages.
+description: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://theodorejackson.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.theodorejackson.net" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: stricken  
 # github_username:  tsjackso
 google_analytics: UA-6160939-2
