@@ -1,0 +1,6 @@
+---
+layout: post
+title: This is my SECOND new page today	.	
+---
+
+What's going on here?  Did I do this right?  Hello world!
