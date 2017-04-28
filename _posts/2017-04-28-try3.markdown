@@ -1,6 +1,8 @@
 ---
 layout: post
-title: This is my SECOND new page today	.	
+title: This is my SECOND new page today.	
 ---
+
+Eĥoŝanĝo ĉiuĵaŭde
 
 What's going on here?  Did I do this right?  Hello world!
