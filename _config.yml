@@ -15,12 +15,13 @@
 # in the templates via {{ site.myvariable }}.
 title: Adventures of a Tech-Adjacent Person
 email: theodore.jackson AT gmail DOT com
-description: There isn't a lot here yet. :-)
+description: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.theodorejackson.net" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: stricken  
+twitter_username: stricken  
 # github_username:  tsjackso
 google_analytics: UA-6160939-2
+timezone: America/Chicago
 # Build settings
 markdown: kramdown
 theme: minima
